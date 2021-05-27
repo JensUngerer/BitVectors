@@ -1,0 +1,18 @@
+[submodule "BitVector"]
+	url = https://github.com/JensUngerer/BitVector.git
+	path = BitVector
+[submodule "BitVector64"]
+	url = https://github.com/JensUngerer/BitVector64.git
+	path = BitVector64
+[submodule "BitVector64.Test"]
+	url = https://github.com/JensUngerer/BitVector64.Test.git
+	path = BitVector64.Test
+[submodule "BitVectorSet"]
+	url = https://github.com/JensUngerer/BitVectorSet.git
+	path = BitVectorSet
+[submodule "BitVectorSet.Test"]
+	url = https://github.com/JensUngerer/BitVectorSet.Test.git
+	path = BitVectorSet.Test
+[submodule "BitVector.Test"]
+	url = https://github.com/JensUngerer/BitVector.Test.git
+	path = BitVector.Test
